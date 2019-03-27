@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\’m a button</string>
+    <string name="widgets_message">Here are my Widgets:</string>
+    <string name="button">BUTTON</string>
+    <string name="check_message">Check this out!</string>
+    <string name="switchon_off">Switch on / off</string>
+    <string name="hint_message">Type your answer here</string>
+    <string name="loginEmail">Enter your email address:</string>
+    <string name="typeEmail">Type email here</string>
+    <string name="password">Type your password:</string>
+    <string name="loginBtn">LOGIN</string>
+
+    //strings for lab3
+    <string name="yourProfile">Your Profile</string>
+    <string name="yourName">Your Name:</string>
+    <string name="enterName">Enter your name</string>
+    <string name="yourEmail">Your email</string>
+    <string name="email">Enter your email</string>
+    <string name="yourPic">Your picture:</string>
+    <string name="clickBtn">Click the button above to take a picture</string>
+    //strings for lab4
+    <string name="chatRoom">Go to chat</string>
+    <string name="send">SEND</string>
+    <string name="typeHere">Type here</string>
+    <string name="receive">RECEIVE</string>
+    <string name="cupheadicon">Cuphead</string>
+    <string name="mugmanicon">Mugman</string>
+    <string name="ugandanknucklesicon">Do You Know Da Whey</string>
+
 </resources>
