@@ -28,5 +28,9 @@
     <string name="cupheadicon">Cuphead</string>
     <string name="mugmanicon">Mugman</string>
     <string name="ugandanknucklesicon">Do You Know Da Whey</string>
+    <string name="toolBtnText">Go to ChatRoom</string>
+    <string name="weatherBtnText">Go to Weather Page</string>
+    <string name="overflow">OverFlow Menu</string>
+
 
 </resources>

@@ -8,7 +8,7 @@
         android:id="@+id/profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/YourProfile"
+        android:text="@string/yourProfile"
         android:layout_alignParentTop="true"
         />
 
@@ -16,14 +16,14 @@
         android:id="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/YourName"
+        android:text="@string/yourName"
         android:layout_below="@id/profile"/>
 
     <EditText
         android:id="@+id/enterName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/NameHint"
+        android:hint="@string/enterName"
         android:inputType="textPersonName"
         android:layout_below="@id/name"/>
 
@@ -31,14 +31,14 @@
         android:id="@+id/email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/YourEmail"
+        android:text="@string/yourEmail"
         android:layout_below="@id/enterName"/>
 
     <EditText
         android:id="@+id/enterEmail2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/EmailHint2"
+        android:hint="@string/email"
         android:inputType="textEmailAddress"
         android:layout_below="@id/email"
         />
@@ -47,7 +47,7 @@
         android:id="@+id/pictureLabel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/YourPicture"
+        android:text="@string/yourPic"
         android:layout_below="@id/enterEmail2"/>
 
     <ImageButton
@@ -62,14 +62,14 @@
         android:id="@+id/ButtonLabel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/ClickButton"
+        android:text="@string/clickBtn"
         android:layout_below="@id/pictureButton"/>
 
     <Button
         android:id="@+id/ChatButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/ChatButton"
+        android:text="@string/chatRoom"
         android:layout_below="@id/ButtonLabel"/>
 
     <Button

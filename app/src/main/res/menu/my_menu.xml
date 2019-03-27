@@ -19,7 +19,7 @@
     <item
         android:id="@+id/item3"
         android:title="@string/ugandanknucklesicon"
-        android:icon="@drawable/ugandan-knuckles"
+        android:icon="@drawable/ugandan_knuckles"
         android:orderInCategory="300"
         app:showAsAction="always"
         />
